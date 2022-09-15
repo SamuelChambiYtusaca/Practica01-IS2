@@ -2,6 +2,7 @@
 
 # Usando git init.
 <img src="https://github.com/SamuelChambiYtusaca/Practica01-IS2/blob/rama_1/img/init.png" width="850" height="450">
+
 # Usando git add.
 <img src="https://github.com/SamuelChambiYtusaca/Practica01-IS2/blob/rama_1/img/add.png" width="850" height="450">
 
